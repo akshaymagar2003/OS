@@ -1,0 +1,11 @@
+This is SY-CS-C-Group-8
+-----------------------------------------------------------------------------------
+
+program terminated normally
+This is SY-CS-C-Group-8
+-----------------------------------------------------------------------------------
+
+program terminated normally
+
+SI = 3  TI =0  PI=0
+TTC = 3  LLC=1
